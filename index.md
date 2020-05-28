@@ -1,8 +1,9 @@
 <html>
    <head>
-      <title>Hello</title>
+      <title>Hello World</title>
    </head>
    <body>
-      <p>Hallo.</p>
+      <img src="jerry.png" alt="pic_not_working" />
+      <p>My name is DarthAlexus.</p>
    </body>
 </html>
